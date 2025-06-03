@@ -6,7 +6,7 @@ An interactive Power BI dashboard built to analyze sales data from a fictional e
 
 ---
 
-### 📝 Project Summary
+## 📝 Project Summary
 
 This project focuses on creating a user-friendly, interactive dashboard using Power BI to provide actionable insights into sales and customer behavior. It empowers stakeholders to make data-driven decisions by visualizing sales trends, customer demographics, and product performance over time.
 
